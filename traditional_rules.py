@@ -1,4 +1,4 @@
-message = input("Write your issue:")
+message = input("Write your issue:") #The money went out twice| "Money was deducted twice from my card" | "I cannot login to my account"|
 
 if "refund" in message.lower():
     print("Billing issue")
